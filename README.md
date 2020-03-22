@@ -57,6 +57,19 @@ This project will be useful to the estimated five-million people who take part i
 
 ### Features
 
+One feature will be the ability of the smart assistant to assess various conditions to do with fishing, sourced from the web, and notify the user where the ideal spots are for various fish.  It will also provide this information based on; the time of day, the water temperature, the tidal variances etc.  
+
+Another feature will be the ability to see where volumes of fish are being caught, based on what other users have input into the system.     
+
+### Tools
+
+A great thing about this program is in its simplicity to create and maintain.  Software that has the ability to accommodate either Python or JavaScript will be where the application is based from.  
+
+
+### Skills
+
+While the tools required to build and maintain this application are minimal.  A great deal of proficiency in coding languages that I do not yet have will be necessary.  I will need to learn a lot about developing software in order to make this project a reality.  However, there are limited to no roadblocks in the form of special hardware or software needed. 
+
 
 
 ## Refrences 
