@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Adam Matthews
 
 You can use the [editor on GitHub](https://github.com/amatt06/IIT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
