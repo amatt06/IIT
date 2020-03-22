@@ -1,4 +1,4 @@
-## Adam Matthews
+# Adam Matthews
 
 - S3853376
 - S3853376@student.rmit.edu.au
@@ -6,7 +6,7 @@
 I am a full time student from Townsville, North Queensland who has moved to Brisbane for greater opportunities in the field of Information Technology, more specifically- Software Development.  While I love all to do with computers, in my free time you will find me fishing, listening to music or intently following world sport, from Australian Rules Football to Formula 1 racing.  A long term goal of mine is to one day be able to merge these pastimes with my fascination for software development in a professional setting.
 
 
-### IT In My Life
+## IT In My Life
 
 My interest in the IT field is to be able contribute to technology in the fishing world, or be a part of a sports team or organisation that I have grown up loving.  My fascination for software development sparked early in primary school when it was announced that there would be testing for North Queensland's first ever 'laptop class' in primary education.  Having passed the test and been admitted into the class I was able to see in just two years how accessible and connected the world was becoming.  Learning to create my first programs, and countless simple games afterwards, was where my interest truly flourished into fascination.  
 
