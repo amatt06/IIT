@@ -27,30 +27,13 @@ An example of my ideal job in IT would be a software developer in the research a
 
 ![](screenshot.jpg)  
 
+The skills that are required for the position include; exceptional proficiency in Python and JavaScript programming languages, as well as the ability to use a number of programs for building user interfaces.  It is also a requirement of the candidate to be able to accommodate the real-time communication of data through libraries such as Socket.IO.  No essential qualifications have been identified by the team.  However, the applicant must have several years of experience in writing applications in a professional environment and a thorough knowledge of web databases.  
+
+I currently do not possess any experience practicing software development professionally, nor do I possess any valid qualifications yet.  Further, my skills in the appropriate coding languages and in online database services are very minimal.  Any skills I have gained in this area have only come from nearly one month of study and casual experimentation in my own time.
+
+To obtain these skills I must, as a minimum, be an active participant in every area of my studies.  Including not only the technical aspects, but also participating in the parts that will teach me to excel in a professional team oriented environment.  To make this position truly realistic to me however, I will have to practice my proficiency in creating my own projects outside of just the university, as well as keep up to date with all the relevant languages and systems as the IT field continues to grow and expand.  Even though this particular position doesn't require any specific qualifications, it is likely that similar jobs in the future will.  This will drive me to gain as much accreditations as I can, starting with a university degree.  Further, gaining as many possible qualifications will only hold me in good stead for any future prospects.  Lastly, I will gain the experience needed over years of relevant professional work.  This will start at entry level and include simple tasks such as maintaining, testing and debugging; and will grow into more complex projects("What Does an Entry Level…").  This technical experience will also be complimented by my growing confidence in a professional, team environment as a result. 
 
 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amatt06/IIT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
