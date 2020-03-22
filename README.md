@@ -44,6 +44,13 @@ To obtain these skills I must, as a minimum, be an active participant in every a
 
 My result in the Myers- Briggs Personality Test indicates that I am accepting, adaptable and am adept at finding workable solutions-valuing efficiency ("The 16 MBTI Types").  It also indicates that I will have a tendency to value facts over concepts.  The MBTI results are further supported by the results from the Big Five Personality Test where I scored highly in agreeableness.  I also scored highly in conscientiousness.  This suggests that I am diligent worker (""Big Five Personality Test") who values organisation.  According to the Learning Style Test I am a visual learner; implying that I remember things by sight or example, rather than spoken instructions ("What's Your Learning Style").      
 
+These results suggest that I am more likely to be very accepting of people's ideas and proposals within a team.  At the same time, I will value those with clear instructions rather than vague concepts.  The fact that I am diligent worker and introverted may mean that my communication within a team will be lacking.  Moreover, my knowledge of my weaknesses attained from these various tests will let me monitor my behaviour and allow me to aim to be more well-rounded as a team member. 
+
+I should take these results into account when forming a team by seeking out others that compliment both my personality and learning style.  My ideal team would include strong leaders who are natural instigators in conversation, to ensure clarity throughout the group.  Further, I would preferably seek out those who share the same traits of being organised and diligent workers.  This would assist in avoiding conflict within the group. 
+
+
+## Project Idea
+
 
 
 
