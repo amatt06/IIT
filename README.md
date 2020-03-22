@@ -1,8 +1,8 @@
 # Adam Matthews
-![](IMG_2162.jpeg)
                                                                               
 - S3853376
 - S3853376@student.rmit.edu.au
+![](IMG_2162.jpeg)
 
 I am a full time student from Townsville, North Queensland who has moved to Brisbane for greater opportunities in the field of Information Technology, more specifically- Software Development.  While I love all to do with computers, in my free time you will find me fishing, listening to music or intently following world sport, from Australian Rules Football to Formula 1 racing.  A long term goal of mine is to one day be able to merge these pastimes with my fascination for software development in a professional setting.
 
