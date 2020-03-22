@@ -34,6 +34,17 @@ I currently do not possess any experience practicing software development profes
 To obtain these skills I must, as a minimum, be an active participant in every area of my studies.  Including not only the technical aspects, but also participating in the parts that will teach me to excel in a professional team oriented environment.  To make this position truly realistic to me however, I will have to practice my proficiency in creating my own projects outside of just the university, as well as keep up to date with all the relevant languages and systems as the IT field continues to grow and expand.  Even though this particular position doesn't require any specific qualifications, it is likely that similar jobs in the future will.  This will drive me to gain as much accreditations as I can, starting with a university degree.  Further, gaining as many possible qualifications will only hold me in good stead for any future prospects.  Lastly, I will gain the experience needed over years of relevant professional work.  This will start at entry level and include simple tasks such as maintaining, testing and debugging; and will grow into more complex projects("What Does an Entry Level…").  This technical experience will also be complimented by my growing confidence in a professional, team environment as a result. 
 
 
+## My Personal Profile 
+
+- Myers-Briggs Test: ISTP
+
+- Big Five Personality Test: High scores in - Agreeableness & Conscientiousness
+
+- Learning Style Test : Visual Learner 
+
+My result in the Myers- Briggs Personality Test indicates that I am accepting, adaptable and am adept at finding workable solutions-valuing efficiency ("The 16 MBTI Types").  It also indicates that I will have a tendency to value facts over concepts.  The MBTI results are further supported by the results from the Big Five Personality Test where I scored highly in agreeableness.  I also scored highly in conscientiousness.  This suggests that I am diligent worker (""Big Five Personality Test") who values organisation.  According to the Learning Style Test I am a visual learner; implying that I remember things by sight or example, rather than spoken instructions ("What's Your Learning Style").      
+
+
 
 
 
