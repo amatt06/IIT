@@ -55,11 +55,13 @@ A project that I have had profound interest in for some time is an AI assistant 
 
 This project will be useful to the estimated five-million people who take part in recreational fishing in Australia Alone (Year Book Australia. 2003). While the sizable market is one huge motivation for the project, the greater motivation comes from how useful this application could be, and how interesting I find the subject.  
 
-### Features
 
+### Features
+ 
 One feature will be the ability of the smart assistant to assess various conditions to do with fishing, sourced from the web, and notify the user where the ideal spots are for various fish.  It will also provide this information based on; the time of day, the water temperature, the tidal variances etc.  
 
-Another feature will be the ability to see where volumes of fish are being caught, based on what other users have input into the system.     
+Another feature will be the ability to see where volumes of fish are being caught, based on what other users have input into the system.  This will utilize location services as well as user inputs to then gather masses of information about the fish and what areas they are in.  This information will then be released back out to the users to help them locate ideal fishing spots near them, as well as what environments they should be looking for.
+   
 
 ### Tools
 
@@ -68,12 +70,12 @@ A great thing about this program is in its simplicity to create and maintain.  S
 
 ### Skills
 
-While the tools required to build and maintain this application are minimal.  A great deal of proficiency in coding languages that I do not yet have will be necessary.  I will need to learn a lot about developing software in order to make this project a reality.  However, there are limited to no roadblocks in the form of special hardware or software needed. 
+While the tools required to build and maintain this application are minimal.  A great deal of proficiency in coding languages that I do not yet have will be necessary.  I will need to learn a lot about developing software in order to make this project a reality.  Fortunately, there are limited to no roadblocks in the form of special hardware or software needed.
 
 
 ### Outcome
 
-
+This project will become an essential tool for all people who love to fish recreationally, such will be the value of the information gathered.  Not only will it advance the understanding of experienced anglers, but it will give confidence to those who are wishing to start.  Further, it will bring a traditionally primitive pastime into the new world of technology.  
 
 
 
