@@ -6,12 +6,16 @@
 I am a full time student from Townsville, North Queensland who has moved to Brisbane for greater opportunities in the field of Information Technology, more specifically- Software Development.  While I love all to do with computers, in my free time you will find me fishing, listening to music or intently following world sport, from Australian Rules Football to Formula 1 racing.  A long term goal of mine is to one day be able to merge these pastimes with my fascination for software development in a professional setting.
 
 
-### Markdown
+### IT In My Life
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My interest in the IT field is to be able contribute to technology in the fishing world, or be a part of a sports team or organisation that I have grown up loving.  My fascination for software development sparked early in primary school when it was announced that there would be testing for North Queensland's first ever 'laptop class' in primary education.  Having passed the test and been admitted into the class I was able to see in just two years how accessible and connected the world was becoming.  Learning to create my first programs, and countless simple games afterwards, was where my interest truly flourished into fascination.  
 
-```markdown
-Syntax highlighted code block
+I chose to study at RMIT in an effort to gain global recognition upon the completion of my degree.  I also see RMIT as a university that grants flexibility and a customisable experience when it comes to subjects and courses.  This gives me great opportunities to hone the exact set of skills that I would like to pursue in a professional setting. 
+
+Throughout my studies I expect to learn. Firstly, how to further my practical skills in programming to a very professional and competitive standard.  This includes not only the skills to fix and maintain programs, but the more creative, more innovative side of software development also.  Secondly, I am expecting to learn how to implement my abilities properly in the workplace.  This includes learning how to work as a team, and the ability to build close working relationships with peers.  
+
+
+
 
 # Header 1
 ## Header 2
