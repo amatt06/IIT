@@ -3,7 +3,8 @@
 - S3853376
 - S3853376@student.rmit.edu.au
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a full time student from Townsville, North Queensland who has moved to Brisbane for greater opportunities in the field of Information Technology, more specifically- Software Development.  While I love all to do with computers, in my free time you will find me fishing, listening to music or intently following world sport, from Australian Rules Football to Formula 1 racing.  A long term goal of mine is to one day be able to merge these pastimes with my fascination for software development in a professional setting.
+
 
 ### Markdown
 
