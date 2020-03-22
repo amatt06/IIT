@@ -21,6 +21,7 @@ Throughout my studies I expect to learn. Firstly, how to further my practical sk
 An example of my ideal job in IT would be a software developer in the research and development field for and organisation such as Renault Sport Racing.  This particular advertisement demands a candidate that can make results from varying modes of testing available to engineers in an organised and streamlined approach.  Ultimately, this position would give me the opportunity to play a significant role in developing the car.  Having the ability to contribute to a potential Formula 1 World Championship is what makes this position truly appealing to me.  
 
 [RSR - Software Developer](https://www.renaultsport.com/-careers-365-?id_job=870)
+![1](images/Screen Shot.png)
 
 
 
