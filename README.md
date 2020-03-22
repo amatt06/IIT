@@ -51,7 +51,11 @@ I should take these results into account when forming a team by seeking out othe
 
 ## Project Idea
 
+A project that I have had profound interest in for some time is an AI assistant for smartphones that is able to assist with decision making when it comes to fishing.  This application will source information from the user themselves as well as use sources from the internet to give as much possible relevant information to the user about given topics when asked. The aim of this project would be to assist people of all levels, from those experienced in fishing, to those who want to get started. 
 
+This project will be useful to the estimated five-million people who take part in recreational fishing in Australia Alone (Year Book Australia. 2003). While the sizable market is one huge motivation for the project, the greater motivation comes from how useful this application could be, and how interesting I find the subject.  
+
+### Features
 
 
 
