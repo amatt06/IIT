@@ -57,6 +57,23 @@ I should take these results into account when forming a team by seeking out othe
 
 ## Refrences 
 
+Careers, Renault Sport Racing,  n.d.  viewed 20 March 2020
+<https://www.renaultsport.com/-careers-365-?id_job=870>
+
+What Does an Entry Level Software Engineer Do? Zip Recruiter, n.d. viewed 22 March 2020
+<https://www.ziprecruiter.com/e/What-Does-an-Entry-Level-Software-Engineer-Do>
+
+Explore Your Type, 16 Personalities, 2020, viewed 22 March 2020
+<https://www.16personalities.com/istp-personality>
+
+The 16 MBTI Types, The Myers & Briggs Foundation, 2020, viewed 22 March 2020
+<https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.htm>
+
+Trait Descriptions, Open Source Psychometrics Project, 17 September 2019, viewed 22 March 2020
+<https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=1.8,3,3.5,3.89,2.8#_IV>
+
+What's Your Learning Style? The learning Styles, Education Planner.org, 2019, viewed 22 March 2020
+<http://www.educationplanner.org/students/self-assessments/learning-styles-styles.shtml>
 
 
 
