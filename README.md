@@ -15,6 +15,12 @@ I chose to study at RMIT in an effort to gain global recognition upon the comple
 Throughout my studies I expect to learn. Firstly, how to further my practical skills in programming to a very professional and competitive standard.  This includes not only the skills to fix and maintain programs, but the more creative, more innovative side of software development also.  Secondly, I am expecting to learn how to implement my abilities properly in the workplace.  This includes learning how to work as a team, and the ability to build close working relationships with peers.  
 
 
+## My Ideal Job
+
+An example of my ideal job in IT would be a software developer in the research and development field for and organisation such as Renault Sport Racing.  This particular advertisement demands a candidate that can make results from varying modes of testing available to engineers in an organised and streamlined approach.  Ultimately, this position would give me the opportunity to play a significant role in developing the car.  Having the ability to contribute to a potential Formula 1 World Championship is what makes this position truly appealing to me.  
+
+[Link](https://www.renaultsport.com/-careers-365-?id_job=870)
+
 
 
 # Header 1
