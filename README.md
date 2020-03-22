@@ -25,7 +25,7 @@ An example of my ideal job in IT would be a software developer in the research a
 
 [RSR - Software Developer](https://www.renaultsport.com/-careers-365-?id_job=870)
 
-![](Screen_Shot.png) 
+![](screenshot.jpg)  
 
 
 
